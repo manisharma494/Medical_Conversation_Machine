@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1617463404713,
+  "index": "/about/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/about/favicon.ico",
+        "/about/index.html",
+        "/about/main.2efc1958bdeaa5e1bf99.js",
+        "/about/main.3d733d8b50f4e9c58df5.js",
+        "/about/main.58e87467b8f1932ea8ed.js",
+        "/about/main.5977953c9fac40722fe3.js",
+        "/about/main.827ce27e5ade2889198d.js",
+        "/about/main.8faba1b68b72add09fb8.js",
+        "/about/main.9c8885b9b2185af05185.js",
+        "/about/main.9ec90bb278b5262b35d2.js",
+        "/about/main.cbdf7567e406daf489fd.js",
+        "/about/manifest.webmanifest",
+        "/about/ngsw-worker.js",
+        "/about/polyfills.94daefd414b8355106ab.js",
+        "/about/runtime.7b63b9fd40098a2e8207.js",
+        "/about/runtime.aa37df221267288cb830.js",
+        "/about/safety-worker.js",
+        "/about/styles.d497fc2469b10a36a6fa.css",
+        "/about/styles.e3b29d0425b7d3764d6d.css",
+        "/about/worker-basic.min.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/about/assets/BhupenderJavaSoftwareEngineer.pdf",
+        "/about/assets/BhupenderSoftwareEngineer.pdf",
+        "/about/assets/icons/icon-128x128.png",
+        "/about/assets/icons/icon-144x144.png",
+        "/about/assets/icons/icon-152x152.png",
+        "/about/assets/icons/icon-192x192.png",
+        "/about/assets/icons/icon-384x384.png",
+        "/about/assets/icons/icon-512x512.png",
+        "/about/assets/icons/icon-72x72.png",
+        "/about/assets/icons/icon-96x96.png",
+        "/about/assets/profilePicture.jpg",
+        "/about/photo.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/about/assets/BhupenderJavaSoftwareEngineer.pdf": "7c6f50212cb5284cf1cbf336831c06cd3e125751",
+    "/about/assets/BhupenderSoftwareEngineer.pdf": "ca0deea7f325ac523c799b113916deebb5793887",
+    "/about/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/about/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/about/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/about/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/about/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/about/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/about/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/about/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/about/assets/profilePicture.jpg": "e7424f89be711080336bd06af72800434a9bd423",
+    "/about/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/about/index.html": "e1adff568d8215f168ea4ac6e77ef40bcc28144b",
+    "/about/main.2efc1958bdeaa5e1bf99.js": "8143402cb8550b4436b23ff83ef6c518fdae0a28",
+    "/about/main.3d733d8b50f4e9c58df5.js": "cdccfbd4558689d54552ab92004a470bfcfb68f5",
+    "/about/main.58e87467b8f1932ea8ed.js": "dc8f2a34ad98656ee394befffaaa9a2a83bc609b",
+    "/about/main.5977953c9fac40722fe3.js": "14aca8db9595a0f4f2cfcdbd5f6670dc391465f8",
+    "/about/main.827ce27e5ade2889198d.js": "eae9866c3aa90a65a5bfd25dfbbbc7c60a80f559",
+    "/about/main.8faba1b68b72add09fb8.js": "ab8627815bdca29602462a916765e1b748d040da",
+    "/about/main.9c8885b9b2185af05185.js": "6c8d2e780b5d4636a2779525a55a68c0d3f9c937",
+    "/about/main.9ec90bb278b5262b35d2.js": "2720951bd0126a536c63a6e7833e4f7bb1e31f68",
+    "/about/main.cbdf7567e406daf489fd.js": "98418f4df95df016955eb68798bb7ba3047e9d94",
+    "/about/manifest.webmanifest": "50972a4fb98487bcba539dc8840f6b13ee0614e9",
+    "/about/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
+    "/about/photo.jpg": "b8c08b3416acbd0bee87a0b54f89f5b4fee28231",
+    "/about/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/about/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/about/runtime.aa37df221267288cb830.js": "a1efc1c3da4542a14d8c37df39fab6eb433a32ca",
+    "/about/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
+    "/about/styles.d497fc2469b10a36a6fa.css": "2de01cd81b9b2582601e5f845deae3102fafaf71",
+    "/about/styles.e3b29d0425b7d3764d6d.css": "5b2b0798d739561e95aebab9c19faccad23d76a7",
+    "/about/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
